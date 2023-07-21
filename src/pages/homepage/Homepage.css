@@ -1,0 +1,390 @@
+.hero {
+  padding: 0 6rem 0 6rem;
+  display: flex;
+  flex-direction: column;
+  gap: 37px;
+  align-self: stretch;
+  background: var(--neutrals-mercury, #e4e4e4);
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  padding-bottom: 40px;
+}
+.heading {
+  color: var(--base-black, #000);
+  text-align: center;
+  font-family: Poppins;
+  font-size: 42px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+  letter-spacing: 1.68px;
+  text-transform: uppercase;
+  align-self: stretch;
+}
+.topics {
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  gap: 76px;
+  align-self: stretch;
+}
+.topic {
+  display: flex;
+  padding: 10px 40px;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  border-radius: 46px;
+  background: var(--primary-medium-turquoise, #51d6ca);
+  color: var(--base-black, #000);
+  text-align: center;
+  font-family: Poppins;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+.CTAs {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 16px;
+  align-self: stretch;
+}
+.subheading {
+  color: var(--base-black, #000);
+  text-align: center;
+  font-family: Poppins;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+}
+.Button {
+  display: flex;
+  width: 196px;
+  height: 50px;
+  padding: 17px 123px;
+  justify-content: center;
+  align-items: center;
+  gap: -9px;
+  border-radius: 67px;
+  background: var(--primary-purple-heart, #5f22d9);
+  color: var(--base-white, #fff);
+  text-align: center;
+  font-family: Poppins;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+}
+
+/* Request Mentor Section CSS */
+.RequestMentorSec {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 22px;
+  align-self: stretch;
+}
+.content {
+  display: flex;
+  width: 621px;
+  padding-right: 0px;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  gap: 77px;
+}
+.content div:nth-child(1) {
+  color: var(--base-black, #000);
+  font-family: Poppins;
+  font-size: 34px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+.gurus {
+  color: var(--primary-purple-heart, #5f22d9);
+  font-size: 34px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+}
+.content .CTAs {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  gap: 20px;
+  align-self: stretch;
+}
+.content .CTAs div {
+  color: var(--base-black, #000);
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  letter-spacing: -0.48px;
+}
+.content .CTAs .Button {
+  width: auto;
+  display: flex;
+  padding: 17px 52px;
+  align-items: center;
+  gap: -9px;
+  color: var(--base-white, #fff);
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+}
+.mensmiling img {
+  -webkit-transform: scaleX(-1);
+  transform: scaleX(-1);
+}
+
+/* Mentor Section CSS */
+.mentorSection {
+  display: flex;
+  padding: 36px 57px 44px 57px;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 67px;
+  align-self: stretch;
+  background: var(--primary-medium-turquoise, #51d6ca);
+}
+.our-mentors {
+  color: var(--gunmetal, #253344);
+  text-align: center;
+  font-family: Poppins;
+  font-size: 64px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+}
+.description {
+  color: var(--gunmetal, #253344);
+  text-align: center;
+  font-family: Poppins;
+  font-size: 28px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  align-self: stretch;
+}
+.mentorSection .slider {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 39px;
+  align-self: stretch;
+  height: 350px;
+}
+.mentorSection .slider .box {
+  width: 348px;
+  height: 343px;
+  border-radius: 25px;
+  background: var(--neutrals-mercury, #e4e4e4);
+}
+.mentorSection .slider .box .image {
+  width: 103px;
+  height: 103px;
+  position: absolute;
+  right: 118px;
+  top: -40px;
+  border-radius: 103px;
+}
+.mentorSection .slider .box .description {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 23px;
+}
+.personal {
+  color: var(--neutrals-scorpion, #5b5b5b);
+  text-align: center;
+  font-size: 18px;
+  font-weight: 600;
+}
+.name {
+  width: 133px;
+  height: 32px;
+}
+.personal .profession {
+  width: 112px;
+  height: 33px;
+  color: var(--base-black, #000);
+  text-align: center;
+}
+.thought {
+  width: 272px;
+  color: var(--neutrals-scorpion, #5b5b5b);
+  text-align: center;
+  font-family: Poppins;
+  font-size: 16px;
+  font-style: italic;
+  font-weight: 400;
+  line-height: 177%; /* 28.32px */
+}
+.sociallinks {
+  display: flex;
+  align-items: flex-start;
+  gap: 54px;
+  margin-top: 33px;
+}
+.view-all {
+  color: var(--base-white, #fff);
+  text-align: center;
+  font-family: Poppins;
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+}
+
+/* Overview section CSS */
+.overview {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 40px;
+  align-self: stretch;
+}
+.overview .heading {
+  color: var(--base-black, #000);
+  text-align: center;
+  font-family: Poppins;
+  font-size: 64px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+}
+.overview .content {
+  display: flex;
+  padding: 52px 88px;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border-radius: 19px;
+  background: var(--primary-deep-violet, #2c016b);
+  width: auto;
+}
+.icons-title {
+  display: flex;
+  align-items: flex-start;
+  gap: 143px;
+}
+.overview .content .items {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 20px;
+}
+.overview .imageContainer {
+  display: flex;
+  padding: 31px;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  border-radius: 25px;
+  border: 1px solid var(--base-white, #fff);
+  background: var(--base-white, #fff);
+}
+.overview .content .items div:nth-child(2) {
+  color: var(--base-white, #fff);
+  text-align: center;
+  font-family: Poppins;
+  font-size: 32px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+}
+.overview .content .items div:nth-child(3) {
+  color: var(--base-white, #fff);
+  text-align: center;
+  font-family: Poppins;
+  font-size: 40px;
+  font-style: italic;
+  font-weight: 600;
+  line-height: 177.5%; /* 71px */
+  letter-spacing: 1.2px;
+}
+
+/* Testimonials Section CSS */
+.testimonials {
+  display: flex;
+  padding: 50px 0px;
+  flex-direction: column;
+  align-items: center;
+  gap: 53px;
+  align-self: stretch;
+  background: var(--neutrals-scorpion, #5b5b5b);
+}
+/* .testimonials .heading {
+  color: var(--base-white, #fff);
+  text-align: center;
+
+  
+  font-family: Poppins;
+  font-size: 64px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+} */
+
+/* FAQ Section CSS */
+.faqs {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 51px;
+}
+.faqs .heading {
+  color: var(--primary-purple-heart, #5f22d9);
+  text-align: center;
+
+  /* Body/Heading/semibold02 */
+  font-family: Poppins;
+  font-size: 64px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+}
+.faq {
+  padding: 44px 18px;
+  border-radius: 28px;
+  background: var(--neutrals-mercury, #e4e4e4);
+}
+.faq .content {
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  gap: 23px;
+  flex-direction: row;
+  width: auto;
+}
+.maincontent {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+.question {
+  color: var(--base-black, #000);
+  font-family: Poppins;
+  font-size: 28px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 182.5%; /* 51.1px */
+  letter-spacing: 0.84px;
+}
+.answer {
+  color: var(--base-black, #000);
+  font-family: Poppins;
+  font-size: 26px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 142.5%; /* 37.05px */
+  width: 882px;
+}

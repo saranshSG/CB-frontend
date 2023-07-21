@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,300;0,400;0,500;0,600;1,300;1,400;1,500;1,600&display=swap');
+
+:root{
+  --primary-deep-violet: #2C016B;
+  --primary-purple-heart: #5F22D9;
+  --primary-mustard-yellow: #D7AD0D;
+  --primary-medium-turquoise: #51D6CA;
+  --primary-lavender-floral: #AC73FF;
+  --primary-persian-red: #C92B28;
+
+  --neutrals-scorpion: #5B5B5B;
+  --neutrals-dusty-grey: #9C9C9C;
+  --neutrals-mercury: #E4E4E4;
+  --neutrals-scorpion: #5B5B5B;
+  --neutrals-dusty-grey: #9C9C9C;
+  --neutrals-mercury: #E4E4E4;
+
+  --base-black: #000;
+
+  --danger-red-01: #E21D12;
+  --danger-red-02: #CA150C;
+  --danger-red-03: #EE8983;
+  --danger-red-04: #F4E0DF;
+
+  --success-green-01: #158444;
+  --success-green-02: #0A7637;
+  --success-green-03: #85BE9D;
+  --success-green-04: #DFEBE4;
+
+  --warning-yellow-01: #FCCA46;
+  --warning-yellow-02: #FDD56B;
+  --warning-yellow-03: #FEEAB5;
+  --warning-yellow-04: #FEF4DA;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Poppins', sans-serif;
+  background: var(--base-white, #FFF);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+input:focus{
+  outline: none;
+}

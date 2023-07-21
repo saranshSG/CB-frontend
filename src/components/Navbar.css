@@ -1,0 +1,93 @@
+.Navbar {
+  padding: 20px 0 20px 0;
+  justify-content: center;
+  align-items: center;
+  gap: 83px;
+  display: flex;
+}
+
+.Logo {
+  padding: 10px;
+  background: #5b5b5b;
+  border-radius: 6px;
+  justify-content: center;
+  align-items: center;
+  gap: 16px;
+  display: flex;
+}
+.ConnectBorder {
+  text-align: center;
+}
+.ConnectBorder span:first-child {
+  color: white;
+  font-size: 16px;
+  font-weight: 600;
+  word-wrap: break-word;
+}
+.ConnectBorder span:nth-child(2) {
+  color: white;
+  font-size: 16px;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+.NavItems {
+  padding: 15px;
+  justify-content: center;
+  align-items: center;
+  gap: 26px;
+  display: flex;
+}
+.NavItem {
+  padding: 10px;
+  justify-content: center;
+  align-items: center;
+  gap: 1px;
+  display: flex;
+}
+.NavItemText {
+  text-align: center;
+  color: black;
+  font-size: 18px;
+  font-weight: 600;
+  word-wrap: break-word;
+}
+
+.Buttons {
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+  display: flex;
+}
+.LogIn {
+  width: 87px;
+  padding:17px 20px ;
+  border-radius: 91px;
+  overflow: hidden;
+  border: 0.5px black solid;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+}
+.LogIn div {
+  text-align: center;
+  color: black;
+  font-size: 16px;
+  font-weight: 500;
+  word-wrap: break-word;
+}
+.SignUp {
+  height: 44px;
+  padding: 10px 27px;
+  background: black;
+  border-radius: 36px;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+}
+.SignUp div {
+  text-align: center;
+  color: white;
+  font-size: 16px;
+  font-weight: 500;
+  word-wrap: break-word;
+}
