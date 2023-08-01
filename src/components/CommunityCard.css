@@ -1,0 +1,46 @@
+.join-now17,
+.join-our-diaspora1 {
+  position: relative;
+  letter-spacing: 0.03em;
+  line-height: 177.5%;
+}
+.join-our-diaspora1 {
+  font-weight: 500;
+  display: inline-block;
+  width: 1247px;
+}
+.join-now17 {
+  font-weight: 600;
+}
+.button90 {
+  border-radius: 88px;
+  background-color: #5f22d9;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  padding: 12px 24px;
+  align-items: center;
+  justify-content: center;
+  font-size: 24px;
+  color: #fff;
+}
+.communitysec1,
+.content474 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+}
+.content474 {
+  gap: 30px;
+}
+.communitysec1 {
+  background-color: #f6f6f6;
+  width: 1440px;
+  padding: 71px 132px;
+  box-sizing: border-box;
+  text-align: center;
+  font-size: 28px;
+  color: #000;
+  font-family: Poppins;
+}

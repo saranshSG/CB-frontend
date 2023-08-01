@@ -1,135 +1,135 @@
 .loginForm {
-  width: 1056px;
-  /* height: 694px; */
-  flex-shrink: 0;
-  border-radius: 22px;
-  background: var(--neutrals-mercury, #e4e4e4);
-  margin: 5rem auto 5rem;
-  padding: 3rem 0 2rem 0;
-  color: var(--gunmetal, #253344);
-  font-size: 20px;
-  position: relative;
-}
-.backButton {
-  position: absolute;
-  top: 50px;
-  left: 50px;
-  font-style: italic;
-  font-weight: 600;
-  display: flex;
-  border-radius: 49px;
-  background: var(--gunmetal, #253344);
-  color: var(--base-white, #fff);
-  width: 88px;
-  padding: 4px 20px;
-}
-.loginItems {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  gap: 1rem;
-}
-.login {
-  text-align: center;
-  font-size: 36px;
-  font-weight: 600;
-}
-.form {
-  width: 626px;
-  margin: 10px 0;
-  font-weight: 500;
-  display: flex;
-  gap: 10px;
-  flex-direction: column;
-}
-.inputField {
-  display: flex;
-  width: 626px;
-  padding: 18px 21px;
-  align-items: center;
-  gap: 10px;
-  border-radius: 15px;
-  background: var(--neutrals-06, #d9d9d9);
-}
-.inputField input {
-  background: transparent;
-  border: none;
-  width: 100%;
-  height: 30px;
-}
-.inputField input::placeholder {
-  color: var(--button-primary-hover-stroke, #111);
-  font-size: 20px;
-}
-.loginButton button {
-  display: flex;
-  width: 196px;
-  height: 60px;
-  padding: 16px 34px;
-  justify-content: center;
-  align-items: center;
-  /* gap: 10px; */
-  border-radius: 58px;
-  background: var(--primary-purple-heart, #5f22d9);
-  border: none;
-  color: var(--base-white, #fff);
-  font-size: 24px;
-  font-weight: 500;
-}
-.icons {
-  width: 310px;
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  padding: 10px;
-}
-.iconBackground {
-  width: 50px;
-  height: 50px;
-  background: var(--neutrals-06, #D9D9D9);
-  border-radius: 100%;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-}
-.toggle {
-  font-weight: 400;
-  display: flex;
-  align-items: center;
-}
-.toggleSignup {
-  font-size: 20px;
-  font-style: italic;
-  font-weight: 600;
-}
-
-/* Signup page CSS */
-.signupForm {
-  border-radius: 22px;
-  background: var(--neutrals-04, #9E9E9E);
-}
-.signup {
-  text-align: center;
-  font-size: 36px;
-  font-weight: 600;
-  color: #fff;
-}
-.toggleText {
-  color: #fff;
-}
-.toggleSignin {
-  color: #fff;
-  font-size: 20px;
-  font-style: italic;
-  font-weight: 600;
-}
-.signupButton {
-  margin-top: 3rem;
-}
-.phoneInput input:first-child {
-  width: 32px;
-}
-.phoneInput input:nth-child(2) {
-  width: 50px;
-}
+    width: 1056px;
+    /* height: 694px; */
+    flex-shrink: 0;
+    border-radius: 22px;
+    background: var(--neutrals-mercury, #e4e4e4);
+    margin: 5rem auto 5rem;
+    padding: 3rem 0 2rem 0;
+    color: var(--gunmetal, #253344);
+    font-size: 20px;
+    position: relative;
+  }
+  .backButton {
+    position: absolute;
+    top: 50px;
+    left: 50px;
+    font-style: italic;
+    font-weight: 600;
+    display: flex;
+    border-radius: 49px;
+    background: var(--gunmetal, #253344);
+    color: var(--base-white, #fff);
+    padding: 4px 20px;
+  }
+  .loginItems {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 1rem;
+  }
+  .login {
+    text-align: center;
+    font-size: 36px;
+    font-weight: 600;
+  }
+  .form {
+    width: 626px;
+    margin: 10px 0;
+    font-weight: 500;
+    display: flex;
+    gap: 10px;
+    flex-direction: column;
+  }
+  .inputField {
+    display: flex;
+    width: 626px;
+    padding: 18px 21px;
+    align-items: center;
+    gap: 10px;
+    border-radius: 15px;
+    background: var(--neutrals-06, #d9d9d9);
+  }
+  .inputField input {
+    background: transparent;
+    border: none;
+    width: 100%;
+    height: 30px;
+  }
+  .inputField input::placeholder {
+    color: var(--button-primary-hover-stroke, #111);
+    font-size: 20px;
+  }
+  .loginButton button {
+    display: flex;
+    width: 196px;
+    height: 60px;
+    padding: 16px 34px;
+    justify-content: center;
+    align-items: center;
+    /* gap: 10px; */
+    border-radius: 58px;
+    background: var(--primary-purple-heart, #5f22d9);
+    border: none;
+    color: var(--base-white, #fff);
+    font-size: 24px;
+    font-weight: 500;
+  }
+  .icons {
+    width: 310px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px;
+  }
+  .iconBackground {
+    width: 50px;
+    height: 50px;
+    background: var(--neutrals-06, #D9D9D9);
+    border-radius: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .toggle {
+    font-weight: 400;
+    display: flex;
+    align-items: center;
+  }
+  .toggleSignup {
+    font-size: 20px;
+    font-style: italic;
+    font-weight: 600;
+  }
+  
+  /* Signup page CSS */
+  .signupForm {
+    border-radius: 22px;
+    background: var(--neutrals-04, #9E9E9E);
+  }
+  .signup {
+    text-align: center;
+    font-size: 36px;
+    font-weight: 600;
+    color: #fff;
+  }
+  .toggleText {
+    color: #fff;
+  }
+  .toggleSignin {
+    color: #fff;
+    font-size: 20px;
+    font-style: italic;
+    font-weight: 600;
+  }
+  .signupButton {
+    margin-top: 3rem;
+  }
+  .phoneInput input:first-child {
+    width: 32px;
+  }
+  .phoneInput input:nth-child(2) {
+    width: 50px;
+  }
+  

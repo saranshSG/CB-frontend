@@ -1,0 +1,466 @@
+.favicon8 {
+  position: relative;
+  width: 43.76px;
+  height: 50px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.connect-border14 {
+  position: relative;
+  font-weight: 600;
+}
+.logo14 {
+  border-radius: 6px;
+  gap: 16px;
+}
+.find-work8,
+.logo14,
+.navitem8 {
+  display: flex;
+  flex-direction: row;
+  padding: 10px;
+  align-items: center;
+  justify-content: center;
+}
+.navitem8 {
+  padding: 15px;
+  gap: 12px;
+  font-size: 22px;
+}
+.pricing17 {
+  position: relative;
+  font-weight: 500;
+}
+.pricing16 {
+  border-radius: 36px;
+  border: 1px solid #fff;
+  box-sizing: border-box;
+  width: 103px;
+  padding: 8px 27px;
+}
+.buttons8,
+.navbar6,
+.pricing16,
+.sign-up9 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.sign-up9 {
+  border-radius: 36px;
+  background-color: #000;
+  width: 103px;
+  padding: 8px 27px;
+  box-sizing: border-box;
+}
+.buttons8,
+.navbar6 {
+  gap: 20px;
+}
+.navbar6 {
+  width: 1440px;
+  padding: 20px 0;
+  box-sizing: border-box;
+  gap: 42px;
+}
+.want-to-upscale1 {
+  font-weight: 500;
+}
+.want-to-upscale-container1 {
+  position: relative;
+  font-size: 28px;
+  display: inline-block;
+  width: 1206px;
+}
+.content3,
+.herosec4 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+}
+.content3 {
+  gap: 23px;
+  font-size: 96px;
+}
+.herosec4 {
+  align-self: stretch;
+  height: 982px;
+  gap: 216px;
+  background-image: url(/public/herosec3@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  text-align: center;
+}
+.lets-dive-into1 {
+  position: relative;
+  font-size: 28px;
+  line-height: 180%;
+  font-weight: 500;
+  color: #000;
+  text-align: center;
+  display: inline-block;
+  width: 1260px;
+}
+.header3 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+}
+.label14 {
+  align-self: stretch;
+  font-weight: 500;
+}
+.label14,
+.yourmailgmailcom14 {
+  position: relative;
+}
+.textbox14 {
+  align-self: stretch;
+  border-radius: 15px;
+  background-color: #e5e5e5;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  padding: 18px 21px;
+  align-items: center;
+  justify-content: flex-start;
+  color: #9c9c9c;
+}
+.field11,
+.startupname-field1,
+.textbox17 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+}
+.startupname-field1 {
+  width: 518px;
+  flex-direction: column;
+  gap: 11px;
+}
+.field11,
+.textbox17 {
+  flex-direction: row;
+  gap: 20px;
+}
+.textbox17 {
+  align-self: stretch;
+  border-radius: 15px;
+  background-color: #e5e5e5;
+  overflow: hidden;
+  padding: 18px 21px;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 10px;
+  color: #9c9c9c;
+}
+.calendar-calendar-days2 {
+  position: relative;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.textbox18 {
+  align-self: stretch;
+  border-radius: 15px;
+  background-color: #e5e5e5;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  padding: 18px 21px;
+  align-items: center;
+  justify-content: space-between;
+  color: #9c9c9c;
+}
+.contentforn1,
+.name-field3,
+.textbox22 {
+  display: flex;
+  justify-content: flex-start;
+}
+.textbox22 {
+  align-self: stretch;
+  border-radius: 15px;
+  background-color: #e5e5e5;
+  height: 179px;
+  overflow: hidden;
+  flex-shrink: 0;
+  flex-direction: row;
+  padding: 18px 21px;
+  box-sizing: border-box;
+  align-items: flex-start;
+  color: #9c9c9c;
+}
+.contentforn1,
+.name-field3 {
+  flex-direction: column;
+}
+.name-field3 {
+  width: 1056px;
+  height: 229px;
+  align-items: center;
+  gap: 20px;
+}
+.contentforn1 {
+  align-items: flex-start;
+  gap: 21px;
+  font-size: 20px;
+  color: #5b5b5b;
+}
+.form1,
+.othersendotp-btn1 {
+  display: flex;
+  align-items: center;
+}
+.othersendotp-btn1 {
+  border-radius: 58px;
+  background-color: #5f22d9;
+  width: 204px;
+  height: 60px;
+  overflow: hidden;
+  flex-shrink: 0;
+  flex-direction: row;
+  padding: 16px 34px;
+  box-sizing: border-box;
+  justify-content: center;
+  text-align: center;
+  font-size: 24px;
+  color: #fff;
+}
+.form1 {
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: 56px;
+  font-size: 64px;
+  color: #5f22d9;
+}
+.connect-border15 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  letter-spacing: 0.03em;
+  line-height: 177.5%;
+  font-weight: 600;
+}
+.logo15 {
+  position: relative;
+  width: 304px;
+  height: 57px;
+}
+.connect-border-is6 {
+  position: relative;
+  font-size: 18px;
+  line-height: 185%;
+  font-weight: 500;
+  color: #5b5b5b;
+  display: inline-block;
+  width: 302px;
+}
+.logocontent6 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 31px;
+  font-size: 32px;
+  color: #5f22d9;
+}
+.home13 {
+  position: relative;
+  letter-spacing: 0.03em;
+  line-height: 182.5%;
+  font-weight: 600;
+}
+.community16 {
+  margin: 0;
+}
+.community-blog-posts-container6 {
+  position: relative;
+  font-size: 24px;
+  letter-spacing: 0.03em;
+  line-height: 200%;
+  font-weight: 500;
+}
+.contents6,
+.home12 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 28px;
+}
+.contents6 {
+  height: 322px;
+  flex-direction: row;
+  padding: 0 119px;
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: center;
+  gap: 263px;
+}
+.linkedin-negative6,
+.twitter-negative6 {
+  position: relative;
+  width: 25px;
+  height: 25px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.twitter-negative6 {
+  width: 28px;
+}
+.frame-child10 {
+  position: relative;
+  width: 25px;
+  height: 25px;
+}
+.follow-us-on6,
+.linkedin-negative-parent4 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.linkedin-negative-parent4 {
+  width: 304px;
+  flex-direction: row;
+  gap: 66px;
+}
+.follow-us-on6 {
+  flex-direction: column;
+  gap: 28px;
+}
+.have-a-question6,
+.send13 {
+  position: relative;
+  letter-spacing: 0.03em;
+  line-height: 182.5%;
+}
+.send13 {
+  font-weight: 500;
+}
+.btn6,
+.textarea6 {
+  border-radius: 31px;
+  background-color: #5f22d9;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  padding: 3px 20px;
+  align-items: center;
+  justify-content: center;
+  color: #fff;
+}
+.textarea6 {
+  border-radius: 46px;
+  background-color: #e5e5e5;
+  width: 505px;
+  padding: 7px 14px;
+  box-sizing: border-box;
+  justify-content: space-between;
+  color: #858585;
+}
+.send12 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 20px;
+  font-size: 16px;
+}
+.followuson6 {
+  width: 1441px;
+  display: flex;
+  flex-direction: row;
+  padding: 0 120px;
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: space-between;
+}
+.frame-child11 {
+  position: relative;
+  border-top: 2px solid #5f22d9;
+  box-sizing: border-box;
+  width: 1203px;
+  height: 2px;
+}
+.div52 {
+  position: relative;
+  letter-spacing: 0.03em;
+  line-height: 182.5%;
+  font-weight: 600;
+  text-align: right;
+}
+.copyright6,
+.termsofuse6 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+}
+.termsofuse6 {
+  width: 409px;
+  justify-content: space-between;
+}
+.copyright6 {
+  justify-content: flex-start;
+  gap: 24px;
+  text-align: right;
+}
+.bottomline6,
+.followuson-parent4,
+.line-parent4 {
+  align-self: stretch;
+  display: flex;
+  align-items: center;
+}
+.bottomline6 {
+  flex-direction: row;
+  padding: 0 52px;
+  justify-content: center;
+  gap: 394px;
+}
+.followuson-parent4,
+.line-parent4 {
+  flex-direction: column;
+}
+.line-parent4 {
+  height: 76px;
+  justify-content: flex-start;
+  gap: 18px;
+  font-size: 18px;
+}
+.followuson-parent4 {
+  height: 223px;
+  justify-content: space-between;
+}
+.entrepreneurship24,
+.footersection6 {
+  background-color: #fff;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+}
+.footersection6 {
+  width: 1440px;
+  padding: 36px 0;
+  box-sizing: border-box;
+  font-size: 28px;
+  color: #5b5b5b;
+}
+.entrepreneurship24 {
+  position: relative;
+  width: 100%;
+  gap: 80px;
+  text-align: left;
+  font-size: 16px;
+  color: #fff;
+  font-family: Poppins;
+}

@@ -23,6 +23,7 @@ import left from './left.svg';
 import LinkedInNegative from './LinkedIn - Negative.png';
 import LinkedInWhite from './LinkedIn-White.svg';
 import LinkedIn from './LinkedIn.png';
+import Logo from './logo.svg'
 import logout from './logout.svg';
 import medalstar from './medal-star.svg';
 import messagetext from './message-text.svg';
@@ -38,4 +39,4 @@ import User_01 from './User_01.png';
 import User_Add from './User_Add.png';
 import Users_Group from './Users_Group.png';
 
-export { addsquare, angledown, angledowndark, Apple, BACK, Behance, bi_check, Calendar_Days, Chat, Chevron_Left, downcircle, down, Facebook, FacebookNegative, File_Edit, Filter, Google, Heart_01, House_01, InstagramNegative, leftcircle, left, LinkedInNegative, LinkedInWhite, LinkedIn, logout, medalstar, messagetext, More_Vertical, Pin, Property1Rong, right, setting2, Trash_full, Twitter, TwitterNegative, User_01, User_Add, Users_Group }
+export { addsquare, angledown, angledowndark, Apple, BACK, Behance, bi_check, Calendar_Days, Chat, Chevron_Left, downcircle, down, Facebook, FacebookNegative, File_Edit, Filter, Google, Heart_01, House_01, InstagramNegative, leftcircle, left, LinkedInNegative, LinkedInWhite, LinkedIn, Logo, logout, medalstar, messagetext, More_Vertical, Pin, Property1Rong, right, setting2, Trash_full, Twitter, TwitterNegative, User_01, User_Add, Users_Group }
